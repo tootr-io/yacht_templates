@@ -470,7 +470,7 @@
         "name": "nginx-proxy-manager",
         "description": "",
         "logo": "https://raw.githubusercontent.com/vsantiago113/yacht_templates/main/logos/nginx_proxy_manager-logo.png",
-        "image": "jc21/nginx-proxy-manager:latest",
+        "image": "jc21/nginx-proxy-manager:v3",
         "categories": [
             "Proxy",
             "Load Balancer",
